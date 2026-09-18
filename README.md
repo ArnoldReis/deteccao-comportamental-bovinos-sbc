@@ -50,7 +50,6 @@ Métricas por classe e uma reavaliação complementar com métricas COCO estão 
 ├── darknet/        configurações do YOLOv4-tiny e YOLOv7-tiny
 ├── nanodet/        configuração, script de treino e logs do NanoDet
 ├── detr/           informações do DETR
-├── rf-detr/        experimento adicional com RF-DETR (fora do TCC)
 ├── dataset/        datasets utilizados e distribuição das classes
 ├── notebooks/      notebooks de treino (Colab / Kaggle)
 ├── resultados/     métricas, gráficos e exemplos
