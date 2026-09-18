@@ -1,0 +1,74 @@
+{
+ "valid/NanoDet-Plus": {
+  "mAP": 52.9,
+  "AP50": 74.2,
+  "AP75": 59.4,
+  "por_classe_AP50": {
+   "Comendo": 90.1,
+   "Deitado": 96.4,
+   "Em pe": 81.9,
+   "Escondido": 50.0,
+   "Pastando": 52.8
+  }
+ },
+ "valid/YOLOv4-tiny": {
+  "mAP": 45.7,
+  "AP50": 72.8,
+  "AP75": 51.0,
+  "por_classe_AP50": {
+   "Comendo": 88.3,
+   "Deitado": 95.0,
+   "Em pe": 82.1,
+   "Escondido": 46.2,
+   "Pastando": 52.3
+  }
+ },
+ "valid/YOLOv7-tiny": {
+  "mAP": 19.8,
+  "AP50": 33.9,
+  "AP75": 19.8,
+  "por_classe_AP50": {
+   "Comendo": 21.5,
+   "Deitado": 76.8,
+   "Em pe": 29.1,
+   "Escondido": 36.3,
+   "Pastando": 5.9
+  }
+ },
+ "test/NanoDet-Plus": {
+  "mAP": 57.3,
+  "AP50": 80.3,
+  "AP75": 64.6,
+  "por_classe_AP50": {
+   "Comendo": 98.2,
+   "Deitado": 99.3,
+   "Em pe": 85.3,
+   "Escondido": 51.7,
+   "Pastando": 67.1
+  }
+ },
+ "test/YOLOv4-tiny": {
+  "mAP": 52.6,
+  "AP50": 79.8,
+  "AP75": 60.3,
+  "por_classe_AP50": {
+   "Comendo": 94.1,
+   "Deitado": 98.9,
+   "Em pe": 86.7,
+   "Escondido": 52.8,
+   "Pastando": 66.3
+  }
+ },
+ "test/YOLOv7-tiny": {
+  "mAP": 22.0,
+  "AP50": 38.1,
+  "AP75": 23.3,
+  "por_classe_AP50": {
+   "Comendo": 7.9,
+   "Deitado": 77.7,
+   "Em pe": 32.5,
+   "Escondido": 38.7,
+   "Pastando": 33.7
+  }
+ }
+}

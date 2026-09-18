@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Se usar este trabalho, por favor cite-o como abaixo."
+title: "Uso de dispositivos compactos para detecção comportamental de bovinos"
+type: software
+authors:
+  - family-names: "Zago dos Reis"
+    given-names: "Arnold"
+    affiliation: "Universidade Tecnológica Federal do Paraná (UTFPR), Câmpus Dois Vizinhos"
+date-released: 2025-06-30
+license: MIT
+keywords:
+  - visão computacional
+  - detecção de objetos
+  - single board computers
+  - análise comportamental
+  - pecuária de precisão
+  - YOLO
+  - NanoDet
+  - DETR
+preferred-citation:
+  type: thesis
+  thesis-type: "Trabalho de Conclusão de Curso (Bacharelado em Engenharia de Software)"
+  title: "Uso de dispositivos compactos para detecção comportamental de bovinos"
+  authors:
+    - family-names: "Zago dos Reis"
+      given-names: "Arnold"
+  institution:
+    name: "Universidade Tecnológica Federal do Paraná"
+    city: "Dois Vizinhos"
+  year: 2025
