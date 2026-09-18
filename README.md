@@ -66,8 +66,7 @@ Os pesos ficam na página de **[Releases](../../releases)**:
 | `yolov4-tiny-custom_best.weights` | YOLOv4-tiny |
 | `yolov7-tiny-custom_30000.weights` | YOLOv7-tiny |
 | `nanodet_model_best.pth` | NanoDet (PyTorch) |
-| `nanodet_comportamento_gado-sim.onnx` | NanoDet (ONNX, 5,5 MB) |
-| `rf-detr_base_gado.pt` | RF-DETR Base (experimento adicional) |
+...
 
 ## Como usar
 
