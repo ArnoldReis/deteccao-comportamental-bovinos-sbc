@@ -95,4 +95,3 @@ O Darknet calcula a média sobre as 7 classes, contando Bebendo e Outro como 0%.
 ### Modelos não reavaliados
 
 - **DETR:** consulte os resultados do TCC acima.
-- **RF-DETR Base:** experimento adicional, não incluído no TCC.
